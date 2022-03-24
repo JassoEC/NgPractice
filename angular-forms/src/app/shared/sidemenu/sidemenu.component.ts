@@ -49,5 +49,7 @@ export class SidemenuComponent {
     },
   ];
 
+  authMenu: MenuItem[] =[];
+
 
 }
